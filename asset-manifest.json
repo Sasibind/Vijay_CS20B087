@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Vijay_CS20B087/static/css/main.d7a35c13.chunk.css",
+    "main.js": "/Vijay_CS20B087/static/js/main.347c1fc7.chunk.js",
+    "main.js.map": "/Vijay_CS20B087/static/js/main.347c1fc7.chunk.js.map",
+    "runtime-main.js": "/Vijay_CS20B087/static/js/runtime-main.9a4434fb.js",
+    "runtime-main.js.map": "/Vijay_CS20B087/static/js/runtime-main.9a4434fb.js.map",
+    "static/js/2.080459f1.chunk.js": "/Vijay_CS20B087/static/js/2.080459f1.chunk.js",
+    "static/js/2.080459f1.chunk.js.map": "/Vijay_CS20B087/static/js/2.080459f1.chunk.js.map",
+    "index.html": "/Vijay_CS20B087/index.html",
+    "static/css/main.d7a35c13.chunk.css.map": "/Vijay_CS20B087/static/css/main.d7a35c13.chunk.css.map",
+    "static/js/2.080459f1.chunk.js.LICENSE.txt": "/Vijay_CS20B087/static/js/2.080459f1.chunk.js.LICENSE.txt",
+    "static/media/title.css": "/Vijay_CS20B087/static/media/wolf.309c88f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a4434fb.js",
+    "static/js/2.080459f1.chunk.js",
+    "static/css/main.d7a35c13.chunk.css",
+    "static/js/main.347c1fc7.chunk.js"
+  ]
+}
